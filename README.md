@@ -142,8 +142,8 @@ step 12
 * Take a look at the android app
 
 
-![Plant Leaf Disease Detection](https://github.com/Hassan-Ik/Plant-Leaf-Disease-Detection-Mobile-App/blob/main/images/Screenshot_20210808-180304_Agro.jpg =350x250)
-
+<!-- [![Plant Leaf Disease Detection](https://github.com/Hassan-Ik/Plant-Leaf-Disease-Detection-Mobile-App/blob/main/images/Screenshot_20210808-180304_Agro.jpg =350x250) -->
+<img src="https://github.com/Hassan-Ik/Plant-Leaf-Disease-Detection-Mobile-App/blob/main/images/Screenshot_20210808-180304_Agro.jpg"  width="200" height="400" />
 
 ## Dataset Resources:
 
