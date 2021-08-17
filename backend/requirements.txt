@@ -1,0 +1,15 @@
+Django==3.2.4
+django-cors-headers==3.7.0
+djangorestframework==3.12.4
+h5py==2.10.0
+matplotlib==3.3.2
+numpy==1.19.3
+opencv-python==4.5.2.54
+pandas==1.2.5
+Pillow==7.0.0
+requests==2.25.1
+tensorflow-cpu
+Werkzeug==2.0.1
+gunicorn
+psycopg2
+pyodbc
